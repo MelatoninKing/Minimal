@@ -57,6 +57,11 @@ article {
   overflow: hidden;
 }
 
+article a {
+  color: #222;
+  text-decoration: none;
+}
+
 .row{
   overflow:hidden;
   height: 200px;
@@ -70,7 +75,7 @@ article {
   position:absolute;
   left:0;
   top:0;
-  background:linear-gradient(transparent 125px, white 190px);
+  background:linear-gradient(rgba(255,255,255,0) 125px, white 190px);
 }
 
 article h2 {
