@@ -51,6 +51,8 @@ nav a:hover {
 }
 
 article {
+  color: #222;
+  text-decoration: none;
   height: 200px;
   margin: auto;
   width: 45%;
